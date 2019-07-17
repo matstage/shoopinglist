@@ -1,0 +1,27 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "A small shopping list Electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matstage/shoppinglist.git"
+  },
+  "keywords": [
+    "Shopping",
+    "Electron",
+    "learning"
+  ],
+  "author": "Mats Tage Axelsson",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/matstage/shoppinglist/issues"
+  },
+  "homepage": "https://github.com/matstage/shoppinglist#readme",
+  "dependencies": {
+    "electron": "^5.0.6"
+  }
+}
